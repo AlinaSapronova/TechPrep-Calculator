@@ -1,1 +1,1 @@
-# hello-word-calculator
+# hello-world-calculator
