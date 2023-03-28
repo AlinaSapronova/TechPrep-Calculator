@@ -1,1 +1,1 @@
-# hello-world-calculator
+# TechPrep-Calculator
